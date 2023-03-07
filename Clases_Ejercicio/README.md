@@ -1,5 +1,6 @@
 <h1> Clases con Metodos </h1>
-En este ejercicio se programaron las siguientes clases:
+
+<p> En este ejercicio se programaron las siguientes clases: </p>
 - Automovil
 - Persona
 - Monitor
