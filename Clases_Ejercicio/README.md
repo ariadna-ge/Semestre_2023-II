@@ -1,4 +1,4 @@
-#Clases con Metodos
+<h1> Clases con Metodos </h1>
 En este ejercicio se programaron las siguientes clases:
 - Automovil
 - Persona
@@ -14,17 +14,16 @@ A su vez cada clase contiene:
 
 Ejemplo de como se guio para la construccion de las clases es el que se muestra a continuacion.
 
-<tr>
-<th>Persona</th>
-<th>
+<tr> <th>Persona</th> <t/r>
+<tr><th>
 ATRIBUTOS
 - int edad
 - String nombre
 - double estatura
 - double peso
 - String genero
-</th>
-<th>
+</th> </tr>
+<tr><th>
 METODOS
 + void comer
 + void indice
