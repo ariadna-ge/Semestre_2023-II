@@ -14,20 +14,6 @@ A su vez cada clase contiene:
 
 Ejemplo de como se guio para la construccion de las clases es el que se muestra a continuacion.
 
-<tr> <th>Persona</th> <t/r>
-<tr><th>
-ATRIBUTOS
-- int edad
-- String nombre
-- double estatura
-- double peso
-- String genero
-</th> </tr>
-<tr><th>
-METODOS
-+ void comer
-+ void indice
-+ void jugar
-</th>
-</tr>
-
+<tr> <th>Persona</th></tr>
+  <tr><th> ATRIBUTOS: - int edad - String nombre - double estatura - double peso - String genero </th></tr>
+  <tr><th> METODOS:  +void comer  + void indice  + void jugar  </th></tr>
