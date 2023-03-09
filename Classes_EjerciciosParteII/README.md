@@ -11,11 +11,7 @@
 5. Dos metodos de uso general
 
 Para realizar las clase se relizo un aabstraccion como se muestra en la siguiente tabla:
-| BALON |
-| 
-+String tipo
-+Color color
-+String marca |
-|
--public void lanzar()
--public void inflar()|
+| Giroscopio | Libro | Computadora |
+| --- | ---: | :---: |
+| + String tipo  + float potencia  + float rango| + String titulo  + String autor  + double precio  + int paginas | + String marca + String procesador + float memoria +  float espacioMemoria |
+| - public void rotar()  - public void orientar()| - public void comprar()  -public  void leer() | - public void almacenarInfo() - public void mostrarPantalla() |
