@@ -1,5 +1,5 @@
 # Maquina de cafes
-##Programa en java de una maquina de cafe
+## Programa en java de una maquina de cafe
 
 La maquina programada cuenta con 3 depositos
 - AGUA (5000 ml)
