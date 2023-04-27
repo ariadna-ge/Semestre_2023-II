@@ -4,4 +4,4 @@
  - Ejercicio de interfaces realizado en clase ([Clase](https://youtu.be/GIhN8hp8Dx0))
  
  **DIAGRAMA UML**
-<p><img aling="center" widht="100" height="50" src=https://drive.google.com/file/d/1xXzsN13J57rs0ecxygIH_6vOpjaYBq9K/view?usp></p>
+<p><img aling="center" widht="100" height="50" src=https://drive.google.com/file/d/1xXzsN13J57rs0ecxygIH_6vOpjaYBq9K/view?usp=sharing></p>
